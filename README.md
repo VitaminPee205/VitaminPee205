@@ -166,7 +166,7 @@ interests: ["Clean Architecture", "GIS & Mapping", "Linux", "Algorithms"]
 
 <div align="center">
 
-<img src="[https://github-profile-trophy.vercel.app/?username=VitaminPee205&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10](https://github-readme-stats.vercel.app/api?username=JerenzeLevi%2520&theme=default&show_icons=true&hide_border=true&count_private=true)" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VitaminPee205&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 
 </div>
 
