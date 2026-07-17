@@ -193,6 +193,6 @@ interests: ["Clean Architecture", "GIS & Mapping", "Linux", "Algorithms"]
 
 <br/>
 
-<img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-0D1117?style=flat-square" alt="Made with love"/>
+
 
 </div>
