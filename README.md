@@ -75,7 +75,7 @@ interests: ["Clean Architecture", "GIS & Mapping", "Linux", "Algorithms"]
 - **EMA algorithm** — self-learning delivery fee estimation
 - **7-tab analytics dashboard** — Chart.js + Leaflet maps
 - **Multi-role system** — Customer, Reseller, Branch Admin, Super Admin
-- **No frameworks** — built with vanilla HTML/CSS/JS
+- **No frameworks** — built with vanilla HTML/CSS/JS/PHP
 
 </td>
 </tr>
