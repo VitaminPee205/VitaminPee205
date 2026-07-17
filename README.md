@@ -151,7 +151,7 @@ interests: ["Clean Architecture", "GIS & Mapping", "Linux", "Algorithms"]
 <img width="70%" src="https://streak-stats.demolab.com?user=VitaminPee205&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=7B2FFF&currStreakLabel=00C2FF&sideLabels=C9D1D9" alt="GitHub Streak"/>
 
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=VitaminPee205&theme=default&show_icons=true&hide_border=true&count_private=true" alt="VitaminPee205's GitHub Stats" />
+
 <br/>
 
 <div align="center">
@@ -193,6 +193,5 @@ interests: ["Clean Architecture", "GIS & Mapping", "Linux", "Algorithms"]
 
 <br/>
 
-<img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-0D1117?style=flat-square" alt="Made with love"/>
 
 </div>
