@@ -8,11 +8,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+Full-Stack+Web+Applications+%F0%9F%9A%80;Exploring+Cybersecurity+%26+Network+Defense+%F0%9F%94%90;Engineering+Clean+Architecture+%E2%9A%A1;Learning+Every+Single+Day+%F0%9F%93%9A" alt="Typing SVG"/>
 <br/>
 <br/>
-
+<br/>
 <!-- Profile Badges -->
 [![Profile Views](https://komarev.com/ghpvc/?username=VitaminPee205&color=00C2FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/VitaminPee205)
 [![GitHub Followers](https://img.shields.io/github/followers/VitaminPee205?style=for-the-badge&color=7B2FFF&labelColor=0D1117&logo=github)](https://github.com/VitaminPee205?tab=followers)
-
+<br/>
 </div>
 
 ---
