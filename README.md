@@ -5,9 +5,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+Full-Stack+Web+Applications+%F0%9F%9A%80;Exploring+Cybersecurity+%26+Network+Defense+%F0%9F%94%90;Learning+Every+Single+Day+%F0%9F%93%9A" alt="Typing SVG"/>
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Building+Full-Stack+Web+Applications+%F0%9F%9A%80;Exploring+Cybersecurity+%26+Network+Defense+%F0%9F%94%90;Engineering+Clean+Architecture+%E2%9A%A1;Learning+Every+Single+Day+%F0%9F%93%9A" alt="Typing SVG"/>
 
+<br/><br/>
 
 <!-- Profile Badges -->
 [![Profile Views](https://komarev.com/ghpvc/?username=VitaminPee205&color=00C2FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/VitaminPee205)
@@ -75,7 +75,7 @@ interests: ["Clean Architecture", "GIS & Mapping", "Linux", "Algorithms"]
 - **EMA algorithm** — self-learning delivery fee estimation
 - **7-tab analytics dashboard** — Chart.js + Leaflet maps
 - **Multi-role system** — Customer, Reseller, Branch Admin, Super Admin
-- **No frameworks** — built with vanilla HTML/CSS/JS/PHP
+- **No frameworks** — built with vanilla HTML/CSS/JS
 
 </td>
 </tr>
@@ -193,6 +193,6 @@ interests: ["Clean Architecture", "GIS & Mapping", "Linux", "Algorithms"]
 
 <br/>
 
-
+<img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-0D1117?style=flat-square" alt="Made with love"/>
 
 </div>
